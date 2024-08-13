@@ -1163,4 +1163,3 @@
 ./text/t_book06._dt
 ./text/t_book07._dt
 ./text/t_shop._dt
-./nohup.out
